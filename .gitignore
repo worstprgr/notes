@@ -1,0 +1,6 @@
+.idea
+.git
+*cred*
+*key*
+__pycache__
+/thumbnailcreator/thumbnails/

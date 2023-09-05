@@ -58,8 +58,8 @@ Or search for "PYTHONPATH" in the settings.
 
 ---
 ### Solutions?
-After inhaling the talk from _David Beazley_ (Link below) about how Python imports modules are working, 
-and searching the internet - I've found those "solutions":
+After inhaling the talk from David Beazley (Link below) about how the Python 
+import statement is working, and searching the internet - I've found those "solutions":
 
 1. Modify **sys.path** with **sys.path.extend(["path1, path2, path3"])**
 2. Using a flat structure
