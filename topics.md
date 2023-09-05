@@ -6,3 +6,7 @@
 
 ## Private
 1. Definition of 'Clean Code'
+
+
+## Lessons learned
+1. PyCharm: PYTHONPATH, sys.path
