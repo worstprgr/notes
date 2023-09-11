@@ -15,3 +15,8 @@ https://www.docker.com/blog/multi-arch-images/
 ## Dockerfile
 #### Run container for ever
 ```CMD ["sleep", "infinity"]```
+
+## Registry
+#### Own local registry
+https://docs.docker.com/registry/deploying/
+```docker run -d -p 5000:5000 --restart always --name YourRegistryName registry:latest```
