@@ -16,6 +16,10 @@ https://www.docker.com/blog/multi-arch-images/
 #### Run container for ever
 ```CMD ["sleep", "infinity"]```
 
+## Container Management
+#### Show all env vars of a container
+```docker exec <container id> printenv```
+
 ## Registry
 #### Own local registry
 ##### HTTP
