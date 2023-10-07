@@ -5,4 +5,4 @@ Split vertical: ```C-c "``` or ```split-window -v```
 Split horizontal: ```C-c %``` or ```split-window -h```  
 Switch between panes: ```C-b <arrow-keys>```  
 Close active pane: ```Ctrl + b + x``` -> ```y```
-Choose sessions, windows and panes: ```C-b s``` -> Tag & untag: ```t``` & ```T``` -> kill tagged: ```X``` -> exit: ```q```  
+Choose sessions, windows and panes: ```C-b s``` -> Tag & untag: ```t``` & ```T``` -> kill tagged: ```X``` -> kill all: ```x``` -> exit tree: ```q```  
