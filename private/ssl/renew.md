@@ -1,5 +1,5 @@
 # Notes for renewing a cert
-_Primarily for nginx and postfix_  
+_Primarily for nginx_  
 
 ## Pre-requisite
 You'll need:  
