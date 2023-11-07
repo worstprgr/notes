@@ -14,6 +14,9 @@ If you forgot the `-m` arg while creating a user, you can create the home direct
 Add a user to the sudoer file  
 `usermod -aG sudo <user name>`  
 
+Add a password to a user  
+`passwd <user name>`  
+
 Set the owner of a folder  
 `sudo chown username: myfolder`  
 
@@ -27,3 +30,5 @@ Set the permissions of a folder for a user
 
 _Source:_ [Wikipedia - chmod](https://en.wikipedia.org/wiki/Chmod)  
 
+Set default shell to bash  
+`chsh -s /bin/bash`  
