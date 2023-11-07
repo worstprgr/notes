@@ -6,7 +6,7 @@ In that way you minimize a attack vector.
 ### On your client machine
 1. Generate a new key `ssh-keygen -b 4096` with a passphrase
 2. Transfer the key to the remote server: `ssh-copy-id -i ~/.ssh/key_rsa.pub name@yourserver.com`. *Note:* replace `key_rsa.pub` with the correct name of your public key
-3. Test the connection with `ssh -i ~/.ssh/key_rsa.pub name@yourserver.com` and login with your passphrase from the key
+3. Test the connection with `ssh -i ~/.ssh/key_rsa name@yourserver.com` and login with your passphrase from the key
 
 ### On your server
 *Turning off the password login and only allow a login with a SSH key*  
