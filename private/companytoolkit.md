@@ -1,39 +1,55 @@
 # Toolkit
 ### Note
-This document is evolving and work-in-progress. Currently, this are more notes, than a "guide".
+This document is evolving and work-in-progress.  
 
 ## Description
 A company needs a certain set of tools. For documentation, versioning, blogging, finance, administration and more.  
-This document focuses on an approach using a Linux environment, and tolls that are:
+This document focuses on an approach using a Linux environment, and tools that are:
 - (partly) free
 - open source
-- self hosted  
+- self hosted
+
+### Rules
+Donate to the tools you're using. 
 
 ## Tools
 ### Administrative
-Documentation (General)  
-> ...  
+○ General Documentation  
+> **Xwiki** (General Documentation) -> https://xwiki.org
+
+○ Administration  
+> **Paperless-NGX** -> https://github.com/paperless-ngx/paperless-ngx  
 
 
-### Dev
-Documentation (Product)
-> **MkDocs** -> https://www.mkdocs.org/  
-> **ReType** -> https://retype.com/  
+### Development
+○ Documentation (Product)
+> **MkDocs** -> https://www.mkdocs.org  
+> **ReType** -> https://retype.com  
 
-Versioning  
-> **Plain Git** -> https://git-scm.com/  
+○ Versioning  
+> **Plain Git** -> https://git-scm.com  
 > **Forgejo** -> https://forgejo.org  
 
 
 ### IT
-Directory Service  
+○ Directory Service  
 > **openLDAP** -> https://www.openldap.org  
 
-Server  
-> **Debian** -> https://www.debian.org/  
-> **Ubuntu** -> https://ubuntu.com/  
+○ Server  
+> **Debian** -> https://www.debian.org  
+> **Ubuntu** -> https://ubuntu.com
 
-Container Management  
-> **Podman** -> https://podman.io/  
+○ HTTP Hosting  
+> **nginx** -> https://www.nginx.com  
+
+○ Internal Communication  
+> **Matrix** (Chat) -> https://matrix.org  
+> **Postfix & Dovecot** (Mail) -> https://www.postfix.org/ & https://www.dovecot.org  
+
+○ Container Management  
+> **Podman** -> https://podman.io/
+
+○ Virtualization  
+> **Proxmox** -> https://www.proxmox.com
 
 
