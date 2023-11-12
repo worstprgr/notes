@@ -8,6 +8,9 @@ Transfer a file to a remote Linux server. Make sure the user has permissions for
 Add a new user, with a home directory  
 `useradd -m <user name>`  
 
+Add a new user, with home directory and a shell of your choice  
+`useradd -m -s /bin/bash <user name>`  
+
 If you forgot the `-m` arg while creating a user, you can create the home directory for a specific user  
 `mkhomedir_helper <user name>`  
 
