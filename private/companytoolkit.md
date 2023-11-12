@@ -4,20 +4,36 @@ This document is evolving and work-in-progress. Currently, this are more notes, 
 
 ## Description
 A company needs a certain set of tools. For documentation, versioning, blogging, finance, administration and more.  
-This document focuses on an approach using a Linux environment.  
+This document focuses on an approach using a Linux environment, and tolls that are:
+- (partly) free
+- open source
+- self hosted  
 
 ## Tools
-Documentation
-> **MkDocs** -> Free, Open Source, Self Hosted -> [Website](https://www.mkdocs.org/)  
-> **ReType** -> Free + Pay, Self Hosted -> [Website](https://retype.com/)  
+### Administrative
+Documentation (General)  
+> ...  
+
+
+### Dev
+Documentation (Product)
+> **MkDocs** -> https://www.mkdocs.org/  
+> **ReType** -> https://retype.com/  
 
 Versioning  
-> **Plain Git** -> Free, Open Source, Self Hosted -> [Website](https://git-scm.com/)  
-> **Forgejo** -> Free, Open Source, Self Hosted -> [Website](https://forgejo.org)
+> **Plain Git** -> https://git-scm.com/  
+> **Forgejo** -> https://forgejo.org  
 
+
+### IT
 Directory Service  
-> **openLDAP** -> Free, Open Source, Self Hosted -> [Website](https://www.openldap.org)
+> **openLDAP** -> https://www.openldap.org  
 
-...
+Server  
+> **Debian** -> https://www.debian.org/  
+> **Ubuntu** -> https://ubuntu.com/  
+
+Container Management  
+> **Podman** -> https://podman.io/  
 
 
