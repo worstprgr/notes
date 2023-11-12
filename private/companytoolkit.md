@@ -12,7 +12,7 @@ Documentation
 > **ReType** -> Free + Pay, Self Hosted -> [Website](https://retype.com/)  
 
 Versioning  
-> **Plain Git** -> Free, Open Source, Self Hosted -> [Website](https://git-scm.com/)
+> **Plain Git** -> Free, Open Source, Self Hosted -> [Website](https://git-scm.com/)  
 > **Forgejo** -> Free, Open Source, Self Hosted -> [Website](https://forgejo.org)
 
 Directory Service  
