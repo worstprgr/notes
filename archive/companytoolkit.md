@@ -18,7 +18,10 @@ Donate to the tools you're using.
 > **Xwiki** (General Documentation) -> https://xwiki.org
 
 ○ Administration  
-> **Paperless-NGX** -> https://github.com/paperless-ngx/paperless-ngx  
+> **Paperless-NGX** -> https://github.com/paperless-ngx/paperless-ngx
+
+○ Screenshots  
+> **Flameshot** -> https://flameshot.org  
 
 
 ### Development
