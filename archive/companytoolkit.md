@@ -30,8 +30,7 @@ Donate to the tools you're using.
 > **ReType** -> https://retype.com  
 
 ○ Versioning  
-> **Plain Git** -> https://git-scm.com  
-> **Forgejo** -> https://forgejo.org  
+> **Plain Git** -> https://git-scm.com   
 
 ○ UI/UX  
 > **Pencil** (GUI-Prototyper) -> https://github.com/evolus/pencil/  
